@@ -1,0 +1,3 @@
+[submodule "iArt-NFTs-Frontend"]
+	path = iArt-NFTs-Frontend
+	url = https://github.com/javiermontescarrera/iArt-NFTs-Frontend.git
