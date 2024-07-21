@@ -12,7 +12,7 @@ Hello, my name is Javier Montes Carrera and this is my AI Image Generated NFT Mi
 ## Technologies Used
 - AI image generation algorithms: Various AI algorithms are used to generate the images for the NFTs.
 - NFT minting: The project uses a blockchain-based platform to mint and manage the NFTs.
-- Web3Auth: Account abstraction is achieved through the integration of Web3Auth, a platform that simplifies the interaction with blockchain-based systems.
+- IPFS: In order to upload and have access to the image anywhere in the world (and other planets).
 
 ## Installation
 To install and run the project, follow these steps:
