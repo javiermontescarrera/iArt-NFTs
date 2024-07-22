@@ -4,6 +4,9 @@
 Hello, my name is Javier Montes Carrera and this is my AI Image Generated NFT Minter project. It aims to create a system for generating and minting NFTs (Non-Fungible Tokens) using AI image generation. The project integrates account abstraction using Web3Auth, allowing users to interact with the system without having to manage their own cryptocurrency wallets.
 <img width="577" alt="image" src="https://github.com/user-attachments/assets/69552bc8-7ca2-41d3-a4d6-d2c14243a04d">
 
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/da57c14a-8170-4b93-b811-dcf6e766e959">
+
+
 ## Features
 - AI image generation: The system utilizes AI algorithms to generate unique and visually appealing images for each NFT.
 - NFT minting: Users can mint their own NFTs using the generated images, allowing them to own and trade unique digital assets.
