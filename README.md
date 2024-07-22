@@ -32,8 +32,8 @@ To install and run the project, follow these steps:
 ## Usage
 To use the project, follow these steps:
 
-1. Connect your Web3Auth account: Go to the project's website and login to your email account.
-2. Generate an image: Use the AI image generation algorithm to generate an image.
+1. Connect your wallet account: Go to the project's website and connect yout wallet. Demo website: https://irt-nfts.vercel.app/
+2. Generate an image: Use the AI image generation algorithm to generate an image selecting the painting style.
 3. Mint an NFT: Use the generated image to mint your own NFT.
 4. Trade and manage your NFT: Use the project's interface to trade and manage your minted NFTs.
 
