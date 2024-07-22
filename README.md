@@ -8,6 +8,10 @@ Hello, my name is Javier Montes Carrera and this is my AI Image Generated NFT Mi
 
 <img width="978" alt="image" src="https://github.com/user-attachments/assets/da57c14a-8170-4b93-b811-dcf6e766e959">
 
+Minted nft's shown in OpenSea:
+<img width="978" alt="image" src="https://github.com/user-attachments/assets/eecf10ec-cb2d-441f-bafa-f4801d073945">
+
+
 ## Features
 - AI image generation: The system utilizes AI algorithms to generate unique and visually appealing images for each NFT.
 - NFT minting: Users can mint their own NFTs using the generated images, allowing them to own and trade unique digital assets.
