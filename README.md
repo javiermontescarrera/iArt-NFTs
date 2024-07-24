@@ -23,7 +23,7 @@ iArt-NFTs minted listed in OpenSea:
 ## Features
 - AI image generation: The system utilizes AI algorithms to generate unique and visually appealing images for each NFT.
 - NFT minting: Users can mint their own NFTs using the generated images, allowing them to own and trade unique digital assets.
-- Account abstraction: The project leverages Web3Auth to provide a seamless user experience, allowing users to interact with the system without the need for managing their own cryptocurrency wallets.
+- Farcaster frame: Users will be able to pay to mint the generated images in warpcast or any other farcaster client.
 
 ## Technologies Used
 - Foundry, to create, test, deploy and verify the smart contract.
