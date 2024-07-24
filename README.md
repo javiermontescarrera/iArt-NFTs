@@ -2,7 +2,7 @@
 
 ## Overview
 Hello, my name is Javier Montes Carrera and this is my AI Image Generated NFT Minter project (iArt NFTs). It aims to create a system for generating and minting NFTs (Non-Fungible Tokens) using AI image generation. The project has 2 fromtends: a website and a Farcaster frame.
-
+---
 ### Web App:
 <img width="978" alt="image" src="https://github.com/user-attachments/assets/c3aa77d1-9a7d-451e-ac43-bbe2a7e5b6bd">
 
@@ -13,12 +13,15 @@ Hello, my name is Javier Montes Carrera and this is my AI Image Generated NFT Mi
 iArt-NFTs minted listed in OpenSea:
 <img width="978" alt="image" src="https://github.com/user-attachments/assets/eecf10ec-cb2d-441f-bafa-f4801d073945">
 
+---
+
 ### Farcaster frame:
 ![image](https://github.com/user-attachments/assets/738e7140-fdca-4224-b249-fe7c041423f0)
 
 ![image](https://github.com/user-attachments/assets/95e52927-da26-48b3-9f10-2db544ba0d0e)
 
 
+---
 
 ## Features
 - AI image generation: The system utilizes AI algorithms to generate unique and visually appealing images for each NFT.
