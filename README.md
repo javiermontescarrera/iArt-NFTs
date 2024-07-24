@@ -27,13 +27,13 @@ iArt-NFTs minted listed in OpenSea:
 
 ## Technologies Used
 - Foundry, to create, test, deploy and verify the smart contract.
+- Frog, to create the farcaster frame.
 - IPFS and Pinata, to upload the images.
 - NexJS, for the frontend application.
 - Rainbowkit, for wallet integration.
 - Wagmi, to integrate the contract in the frontend.
 - Cohere IA apis, to generate the description of the images to be generated.
 - HuggingFace apis, to generate the images themselves.
-- Frog, to create the farcaster frame.
 - Vercel, to deploy the frontend and the farcaster frame.
 
 ## Installation
