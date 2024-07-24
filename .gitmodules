@@ -4,3 +4,6 @@
 [submodule "iArt-NFTs-Blockchain"]
 	path = iArt-NFTs-Blockchain
 	url = https://github.com/javiermontescarrera/iArt-NFTs-Blockchain.git
+[submodule "iArt-NFTs-Farcaster"]
+	path = iArt-NFTs-Farcaster
+	url = https://github.com/javiermontescarrera/iArt-NFTs-Farcaster.git
