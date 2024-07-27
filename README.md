@@ -20,7 +20,7 @@ iArt-NFTs minted listed in OpenSea:
 
 ![image](https://github.com/user-attachments/assets/95e52927-da26-48b3-9f10-2db544ba0d0e)
 
-![image](https://github.com/user-attachments/assets/f94a17c3-9249-4b22-ad42-905a3e9bc3f9)
+![image](https://github.com/user-attachments/assets/daa62e62-f887-4fcd-9e4a-74f6f846be65)
 
 
 ---
