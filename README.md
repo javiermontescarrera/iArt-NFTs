@@ -19,7 +19,9 @@ iArt-NFTs minted from Farcaster listed in OpenSea:
 ![image](https://github.com/user-attachments/assets/f4ec5c0d-844f-4905-8c6f-c92148a5dfe8)
 
 
+
 ---
+
 ### Web App:
 <img width="978" alt="image" src="https://github.com/user-attachments/assets/c3aa77d1-9a7d-451e-ac43-bbe2a7e5b6bd">
 
