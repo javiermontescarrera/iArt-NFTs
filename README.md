@@ -9,15 +9,17 @@ Hello, my name is Javier Montes Carrera and this is my AI Image Generated NFT Mi
 
 ![image](https://github.com/user-attachments/assets/240aa469-ce4e-464e-b38b-065cc2088297)
 
-![image](https://github.com/user-attachments/assets/6477c63e-a828-4970-a52e-8c2b0fa946d8)
+![image](https://github.com/user-attachments/assets/98f66804-7db9-4a72-8be8-7ea3413951fb)
 
-![image](https://github.com/user-attachments/assets/7512d8da-880d-4c08-a587-6cbabbc75403)
+![image](https://github.com/user-attachments/assets/5a660e54-9f47-44d8-ac93-e4f3bd746d69)
 
-![image](https://github.com/user-attachments/assets/146add47-3bbf-4649-a7f6-a06119af879e)
+![image](https://github.com/user-attachments/assets/fa3a9b14-131a-4653-be11-62074ada0b37)
+
+Farcaster transaction in arbiscan:
+![image](https://github.com/user-attachments/assets/310710e1-3c1d-4ad7-9ce8-a45548989399)
 
 iArt-NFTs minted from Farcaster listed in OpenSea:
-![image](https://github.com/user-attachments/assets/f4ec5c0d-844f-4905-8c6f-c92148a5dfe8)
-
+![image](https://github.com/user-attachments/assets/97d7e5a6-6994-4bba-8b7d-913ff797f28d)
 
 
 ---
