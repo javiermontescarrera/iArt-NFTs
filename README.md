@@ -9,9 +9,15 @@ Hello, my name is Javier Montes Carrera and this is my AI Image Generated NFT Mi
 
 ![image](https://github.com/user-attachments/assets/95e52927-da26-48b3-9f10-2db544ba0d0e)
 
-![image](https://github.com/user-attachments/assets/daa62e62-f887-4fcd-9e4a-74f6f846be65)
+![image](https://github.com/user-attachments/assets/6477c63e-a828-4970-a52e-8c2b0fa946d8)
 
-![image](https://github.com/user-attachments/assets/45806295-95af-4e8d-804b-a11083c24c27)
+![image](https://github.com/user-attachments/assets/7512d8da-880d-4c08-a587-6cbabbc75403)
+
+![image](https://github.com/user-attachments/assets/146add47-3bbf-4649-a7f6-a06119af879e)
+
+iArt-NFTs minted from Farcaster listed in OpenSea:
+![image](https://github.com/user-attachments/assets/f4ec5c0d-844f-4905-8c6f-c92148a5dfe8)
+
 
 ---
 ### Web App:
