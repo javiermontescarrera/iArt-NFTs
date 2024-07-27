@@ -7,7 +7,7 @@ Hello, my name is Javier Montes Carrera and this is my AI Image Generated NFT Mi
 ### Farcaster frame:
 ![image](https://github.com/user-attachments/assets/738e7140-fdca-4224-b249-fe7c041423f0)
 
-![image](https://github.com/user-attachments/assets/95e52927-da26-48b3-9f10-2db544ba0d0e)
+![image](https://github.com/user-attachments/assets/240aa469-ce4e-464e-b38b-065cc2088297)
 
 ![image](https://github.com/user-attachments/assets/6477c63e-a828-4970-a52e-8c2b0fa946d8)
 
